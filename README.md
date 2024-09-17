@@ -3,7 +3,7 @@
 Authors:
 Kush Momaya, Aditya Gambhir, Shaan Pakala, Harjyot Sidhu
 
-*Full report available at: 
+*Full report available at: https://github.com/KushMomaya/CDC_Diabetes_Health_Indicators/blob/main/DSE_Final_Report.pdf
 
 ## Objective
 The objective of the project was to develop a predictive model for diabetes using health indicators. We used various techniques to search for bias and unfairness to demonstrate ethical AI principles. 
